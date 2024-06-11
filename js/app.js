@@ -6,6 +6,7 @@ const listaCursos = document.querySelector('#lista-cursos');
 let articulosCarrito = []
 
 //este es un comentario de prueba
+//este es otro comentario de prueba 
 
 cargarEventListeners();
 
