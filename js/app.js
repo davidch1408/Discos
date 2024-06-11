@@ -5,6 +5,8 @@ const vaciarCarritoBtn = document.querySelector('#vaciar-carrito');
 const listaCursos = document.querySelector('#lista-cursos');
 let articulosCarrito = []
 
+//este es un comentario de prueba
+
 cargarEventListeners();
 
 function cargarEventListeners() {
