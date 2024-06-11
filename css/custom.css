@@ -37,7 +37,7 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image:url(../img/hero.jpg);
+    background-image:url(../img/banner.jpg);
     height: 350px;
     background-size: cover;
 }
@@ -125,13 +125,13 @@ ul {
     }
 }
 .icono1 {
-    background-image: url(../img/icono1.png);
+    background-image: url(../img/vinylb.png);
 }
 .icono2 {
-    background-image: url(../img/icono2.png);
+    background-image: url(../img/deliveryb.png);
 }
 .icono3 {
-    background-image: url(../img/icono3.png);
+    background-image: url(../img/musicb.png);
 }
 
 #lista-cursos .row {
@@ -179,10 +179,4 @@ ul {
 display: block;
 margin-bottom: 10px;
 text-decoration: none;
-}
-
-.imagen-curso {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
 }
